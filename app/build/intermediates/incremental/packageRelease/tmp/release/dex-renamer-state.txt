@@ -1,0 +1,4 @@
+#Mon Aug 24 18:45:04 PKT 2020
+base.0=E\:\\Projects\\LetsCaht backup\\LetsChat\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

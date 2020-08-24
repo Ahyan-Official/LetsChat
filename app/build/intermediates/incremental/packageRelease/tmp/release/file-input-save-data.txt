@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Aug 24 18:45:04 PKT 2020
+0.baseType=DIRECTORY
+0.base=E\:\\Projects\\LetsCaht backup\\LetsChat\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1
